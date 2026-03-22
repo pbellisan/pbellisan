@@ -57,7 +57,7 @@ Yazılım mühendisliğini sadece uygulama bazında değil, akademik düzeyde pe
 * 🔬 **Research Areas:** AI Ethics, Future of AI, High-Performance Software Engineering in Big Data.
 * 🐍 **Tools:** Python (NumPy, Pandas, Scikit-learn), Data Analysis & Benchmarking.
 * 📝 **Publications:** Academia.edu, Zenodo, ResearchGate.
-* 🆔 **Identities:** [Academia edu] (https://uow.academia.edu/PBellisan) | [ORCID](https://orcid.org/0009-0007-5798-1152) | [ResearchGate](https://www.researchgate.net/profile/Parla-Bellisan-3) | [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Bellisan%2C%20Parla%22&l=list&p=1&s=10&sort=bestmatch)
+* 🆔 **Identities:** [Academia](https//uow.academia.edu/PBellisan) | [ORCID](https://orcid.org/0009-0007-5798-1152) | [ResearchGate](https://www.researchgate.net/profile/Parla-Bellisan-3) | [Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Bellisan%2C%20Parla%22&l=list&p=1&s=10&sort=bestmatch)
 
 ---
 
