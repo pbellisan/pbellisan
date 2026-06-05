@@ -68,9 +68,6 @@ Teorik bilgisayar bilimleri ve yazılım mimarisi pratiklerini, ceza hukuku ve a
 * **Custom Environments:** PHP, Node.js ve MariaDB'yi tek bir çatı altında toplayan yüksek performanslı boilerplate'ler hazırlıyorum.
 
 ---
-
-### 📈 GitHub İstatistiklerim
-
 ### 📈 GitHub İstatistiklerim
 
 <p align="left">
