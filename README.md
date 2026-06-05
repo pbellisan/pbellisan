@@ -44,9 +44,19 @@ Yazılım dünyasında sadece kod yazmaya değil, uçtan uca çalışan, güvenl
 ### 🚀 Güncel Odak Noktalarım & Araştırmalar
 
 * **☁️ Google & Claude AI Ecosystem:** Google Cloud altyapısı üzerinde Claude (Anthropic) modelleri ile hibrit AI çözümleri ve LLM orkestrasyonu geliştiriyorum.
-* **🔬 Academic Research:** AI Ethics, Big Data ve yazılım performansı üzerine Python tabanlı test sistemleri kurguluyor; bulgularımı **Academia, Zenodo ve ResearchGate** üzerinden paylaşıyorum.
 * **🧪 API Architecture:** Postman kullanarak dökümante edilmiş, Stripe ve Google API'leri ile entegre, yüksek güvenlikli (Nginx SSL/Rate Limit) API mimarileri inşa ediyorum.
 * **🐳 Containerization:** Çok katmanlı (Multi-stack) yapıları Docker ile izole edip, her projeyi tek komutla ayağa kalkan profesyonel bir altyapıya dönüştürüyorum.
+
+---
+
+### 🔬 Araştırma Alanları & Akademik Profil
+
+Teorik bilgisayar bilimleri ve yazılım mimarisi pratiklerini, ceza hukuku ve adli bilişim metodolojileri düzleminde inceliyorum. 
+
+* **🐳 Reproducible Research Environments:** Akademik kıyaslama (benchmarking) ve siber analiz laboratuvarlarını Docker platformunda standardize ederek, doğrulanabilir ve forensically sound test ortamları kurguluyorum.
+* **🤖 Multi-Agent AI Orchestration:** Finansal modelleme ve doküman analiz süreçlerinde Claude, OpenAI ve Gemini modellerini otonom döngülerle el sıkıştıran hibrit yapay zeka katmanları tasarlıyorum.
+* **📈 Algorithmic Performance & Big Data:** Büyük veri ortamlarında Python veri analizi kütüphaneleri (NumPy, Pandas, Scikit-learn) kullanarak sistem performans testleri ve optimizasyon süreçleri yürütüyorum.
+* **🛡️ Applied Forensics:** Dijital delil bütünlüğünü ve ağ adli analiz süreçlerini açık kaynaklı altyapılarla yapılandırarak adli denetim metodolojileri geliştiriyorum.
 
 ---
 
@@ -59,14 +69,15 @@ Yazılım dünyasında sadece kod yazmaya değil, uçtan uca çalışan, güvenl
 
 ---
 
-### 📈 GitHub İstatistiklerim
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbellisan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbellisan&layout=compact&theme=radical)
+### 📈 GitHub İstatistikleri
+
+![Parla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbellisan&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbellisan&layout=compact&theme=radical)
 
 ---
 
 ### 🎓 Academic & Research Profile
-Yazılım mühendisliğini sadece uygulama bazında değil, akademik düzeyde performans ve etik çerçevesinde inceliyorum.
+Yazılım mühendisliğini sadece uygulama bazında değil, akademik düzeyde performans ve etik çerçevesinde inceliyorum. Yürüttüğüm bağımsız doktora araştırmaları ve metodoloji çalışmalarını bilimzel dergiler ve hakemli akademik ağlar üzerinden paylaşıyorum.
 
 * 🔬 **Research Areas:** AI Ethics, Future of AI, High-Performance Software Engineering in Big Data.
 * 🐍 **Tools:** Python (NumPy, Pandas, Scikit-learn), Data Analysis & Benchmarking.
@@ -80,4 +91,4 @@ Yazılım mühendisliğini sadece uygulama bazında değil, akademik düzeyde pe
 * **AI Ethics & Future:** Yapay zekanın geleceği ve etik standartları üzerine teorik ve pratik araştırmalar.
 * **Infrastructure as Code:** Akademik test ortamlarını Docker ve Nginx ile standardize ederek "Reproducible Research" (Tekrar Üretilebilir Araştırma) pratiklerini uyguluyorum.
 
-📫 **Bana Ulaşın:** Academia
+📫 **İletişim:** [The Bellisan](https://thebellisan.com/parlabellisan) veya kurumsal ağlar üzerinden akademik/teknik iş birlikleri için iletişime geçebilirsiniz.
