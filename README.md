@@ -69,11 +69,17 @@ Teorik bilgisayar bilimleri ve yazılım mimarisi pratiklerini, ceza hukuku ve a
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📈 GitHub İstatistiklerim
 
-![Parla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pbellisan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbellisan&layout=compact&theme=radical)
-
+<p align="left">
+  <!-- Ana İstatistik Kartı (Parametreler ve Tema Onarıldı) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pbellisan&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="Parla's GitHub Stats" />
+  
+  <br/><br/>
+  
+  <!-- En Çok Kullanılan Diller Kartı (Düzen ve Tema Eşitlendi) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pbellisan&layout=compact&theme=dark" alt="Top Langs" />
+</p>
 ---
 
 ### 🎓 Academic & Research Profile
